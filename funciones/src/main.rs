@@ -5,7 +5,7 @@ fn main() {
         z + 1
     };
     println!("El valor de x es: {}", x);
-    println!("El valor de trece es: {}", trece())
+    println!("El valor de trece es: {}", trece());
     println!("El valor de catorce es: {}", catorce())
 }
 
