@@ -7,4 +7,7 @@ fn main() {
     } else {
         println!("El número es mayor que 5");
     }
+    let condicion = true;
+    let numero = if condicion { 5 } else { 6 };
+    println!("El valor de numero es: {}", numero);
 }
