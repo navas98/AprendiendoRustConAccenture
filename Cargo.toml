@@ -1,0 +1,6 @@
+[package]
+name = "aprendiendo_rust_con_accenture"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
