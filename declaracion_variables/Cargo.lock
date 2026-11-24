@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "aprendiendo_rust_con_accenture"
+name = "declaracion_variables"
 version = "0.1.0"
